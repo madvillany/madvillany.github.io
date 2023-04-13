@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2012
 client: Arc of Cape May
 category: Web Development
-description: A responsive website made with a wp-template designed to help non-profits promote, market and update the public.
+description: A <a href="https://arcofcapemay.org/">responsive website</a> made with a wp-template designed to help non-profits promote, market and update the public.
 ---
