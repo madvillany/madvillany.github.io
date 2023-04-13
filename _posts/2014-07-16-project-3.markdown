@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2014
 client: Washington Square Capital- Capital Advisory Firm
 category: Web Development
-description: A <a href="https://www.wsqcap.com/index.html">responsive website</a> I was contracted to update and remade with Bootstrap and used vanilla JS and used JS widget called theFinancials.com which wouold pull real time data and display on the website.
+description:  As part of my a href="https://www.wsqcap.com/index.html">Contracted Work</a>, I was tasked with updating and remaking a website using Bootstrap. To enhance its functionality, I incorporated vanilla JS and utilized a JS widget known as theFinancials.com. This widget enabled the site to pull real-time data, such as stock prices and market trends, and display them in an interactive and visually appealing way.
 ---
