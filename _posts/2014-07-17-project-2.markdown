@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 20142011
 client: Salt Shaker Foundation
 category: Web Development
-description: A <a href="http://www.saltshakerfoundation.org/">responsive website</a> made with a Squarespace template picked out by the non-profit and designed to help market their services and needs as a non-proft.
+description: I volunteered to design a <a href="http://www.saltshakerfoundation.org/">website</a> for a non-profit organization using a Squarespace template that they had chosen. The website was intended to help the non-profit market their services and communicate their needs as a non-profit. I customized the template to meet their specific requirements and branding guidelines, carefully selecting fonts, colors, and layouts that were consistent with their mission and values. Throughout the process, I collaborated closely with the non-profit's team to ensure that their feedback and input were incorporated into the final product. The end result was a website that helped the non-profit reach a wider audience and achieve their goals..
 ---
