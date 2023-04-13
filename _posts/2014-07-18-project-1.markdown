@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: April 2012
-img: cabin.png
+img: arc.png
 alt: image-alt
 project-date: April 2012
 client: Arc of Cape May
