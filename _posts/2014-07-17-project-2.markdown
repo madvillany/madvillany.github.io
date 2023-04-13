@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 20142011
 client: Salt Shaker Foundation
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A responsive website made with a Squarespace template picked out by the non-profit and designed to help market their services and needs as a non-proft..
 ---
