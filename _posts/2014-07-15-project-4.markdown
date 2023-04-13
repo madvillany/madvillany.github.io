@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: December 2016
+img: tsurf.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: December 2016
+client: Thundering Surf Water Park
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: By utilizing Weebly as the backbone content management system (CMS) and incorporating custom HTML, CSS, and JavaScript, we were able to redesign the website to accommodate more growth, content, and sales under one platform. The website's new design allowed for a more streamlined and user-friendly experience, which ultimately resulted in increased traffic and higher conversion rates. Additionally, we integrated the website with Square's point-of-sale (PoS) system, enabling us to track sales and inventory both online and in the park. With these enhancements, we were able to provide visitors with a seamless experience and enhance our operational efficiency..
 ---
