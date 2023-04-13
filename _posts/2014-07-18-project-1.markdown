@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: April 2012
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2012
+client: Arc of Cape May
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A responsive website made with a wp-template designed to help non-profits promote, market and update the public.
 ---
