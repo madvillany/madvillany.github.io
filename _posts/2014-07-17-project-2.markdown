@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 20142011
 client: Salt Shaker Foundation
 category: Web Development
-description: A responsive website made with a Squarespace template picked out by the non-profit and designed to help market their services and needs as a non-proft..
+description: A <a href="http://www.saltshakerfoundation.org/">responsive website</a> made with a Squarespace template picked out by the non-profit and designed to help market their services and needs as a non-proft.
 ---

@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: wsq.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2014
+client: Washington Square Capital- Capital Advisory Firm
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A <a href="https://www.wsqcap.com/index.html">responsive website</a> I was contracted to update and remade with Bootstrap and used vanilla JS and used JS widget called theFinancials.com which wouold pull real time data and display on the website.
 ---
