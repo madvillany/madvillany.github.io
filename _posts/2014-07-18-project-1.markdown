@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2012
 client: Arc of Cape May
 category: Web Development
-description: A <a href="https://arcofcapemay.org/">responsive website</a> made with a wp-template designed to help non-profits promote, market and update the public.
+description:  I volunteered to create a <a href="https://arcofcapemay.org/">website</a> for a non-profit organization using a WordPress template that was specifically designed to help non-profits promote, market, and update the public. The template provided a range of features and functionalities that I was able to customize to meet the unique needs and branding guidelines of the non-profit. I worked closely with the non-profit's team to select the right layout, color scheme, and typography that would make the website visually appealing and user-friendly. Through collaboration and regular updates, the website was able to effectively communicate the non-profit's message to the public and promote their activities..
 ---
