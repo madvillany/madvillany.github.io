@@ -7,5 +7,4 @@ alt: image-alt
 project-date: May 2015
 client: USPO NJ
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
----
+description: I was contracted to redesign the website for the New Jersey Probation Office (NJPO). They provided me with a Drupal template to work with, and I was responsible for following their style guides and branding guidelines while customizing the site to their specific needs. One of the primary objectives was to ensure that the website was easily accessible to visitors using mobile devices, so I prioritized mobile-first viewing during the design process. By leveraging the features and functionalities of the template, I was able to create a visually appealing and user-friendly website that effectively communicated the NJPO's message to the public.
